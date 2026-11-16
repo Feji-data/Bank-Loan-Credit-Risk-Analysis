@@ -34,7 +34,7 @@ The analysis was carried out using Microsoft Excel and Power BI, with the aim of
 
 ## Dashboard Preview
 
-![Bank Loan Dashboard](bank%20laon%20dasboard%202.0.png)
+![Bank Loan Dashboard](Image/bank%20laon%20dasboard%202.0.png)
 
 ## Conclusion
 This project demonstrates how Excel and Power BI can be used together to analyze loan application data, identify approval patterns and present findings that can support data-driven lending decisions.
